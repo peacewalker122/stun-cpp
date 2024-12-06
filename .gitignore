@@ -80,6 +80,7 @@ ehthumbs.db
 *.pyo
 *.pyd
 __pycache__/
+.python-version
 
 # Ignore test or coverage reports
 *.log
